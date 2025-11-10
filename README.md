@@ -1,6 +1,6 @@
-# Health-Management-System
+# Hospital Patient Doctor Billing Management System
 
-A C-based Hospital Management System (HMS) for managing patients, doctors, services, appointments, and billing.
+A C-based Hospital Patient Doctor Billing Management System for managing patients, doctors, services, appointments, and billing.
 
 ## Features
 

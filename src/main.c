@@ -116,7 +116,7 @@ static void billing_menu(void) {
 int main(void) {
     int choice;
     do {
-        printf("\n==== Hospital Management System ====\n");
+        printf("\n==== Hospital Patient Doctor Billing Management System ====\n");
         printf("1. Patients\n");
         printf("2. Doctors\n");
         printf("3. Services\n");
